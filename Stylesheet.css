@@ -1,0 +1,1088 @@
+body {
+    background: url(https://brandthunder.com/wp/wp-content/uploads/2015/03/printable-march-madness-bracket-print-your-brackets.jpg);
+    background-repeat: no-repeat;
+    background-size: 1250px 800px;
+}
+
+#team{
+    position: absolute;
+    top: 8%;
+}
+#seed{
+    position: absolute;
+    top: 8%;
+    left: 14%;
+}
+#region{
+    position: absolute;
+    top: 8%;
+    left: 21%;
+}
+#clickerOne{
+    position: absolute;
+    top: 8%;
+    left: 29%;
+}
+#blocker{
+    position: absolute;
+    top: 0%;
+    height: 7%;
+    margin-left: 0%;
+    width: 100%;
+    background-color: mediumpurple;
+    font-size: 50px;
+    text-align: center;
+    color: azure;
+}
+
+#r32{
+    position: absolute;
+    top: 93%;
+    margin-left: 15%;
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+#s16{
+    position: absolute;
+    top: 90%;
+    margin-left: 26%;
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+#e8{
+    position: absolute;
+    top: 85%;
+    margin-left: 32%;
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+#f4{
+    position: absolute;
+    top: 75%;
+    margin-left: 38.5%;
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+#nc{
+    position: absolute;
+    top: 53%;
+    margin-left: 42.7%;
+    font-size: 18px;
+    color: rebeccapurple;
+}
+#topLeft1{
+    position: absolute;
+    top: 13%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft16{
+    position: absolute;
+    top: 16%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft8{
+    position: absolute;
+    top: 18.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft9{
+    position: absolute;
+    top: 21%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft5{
+    position: absolute;
+    top: 23.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft12{
+    position: absolute;
+    top: 26%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft4{
+    position: absolute;
+    top: 28.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft13{
+    position: absolute;
+    top: 31%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft6{
+    position: absolute;
+    top: 33%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft11{
+    position: absolute;
+    top: 35.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft3{
+    position: absolute;
+    top: 38%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft14{
+    position: absolute;
+    top: 40.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft7{
+    position: absolute;
+    top: 43%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft10{
+    position: absolute;
+    top: 45.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft2{
+    position: absolute;
+    top: 48%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topLeft15{
+     position: absolute;
+     top: 50.5%;
+     height: 2.5%;
+     width: 10%;
+     margin-left: 3%;
+     color: black;
+ }
+#bottomLeft1{
+    position: absolute;
+    top: 54%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft16{
+    position: absolute;
+    top: 56.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft8{
+    position: absolute;
+    top: 59%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft9{
+    position: absolute;
+    top: 61.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft5{
+    position: absolute;
+    top: 63.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft12{
+    position: absolute;
+    top: 66.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft4{
+    position: absolute;
+    top: 68.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft13{
+    position: absolute;
+    top: 71.4%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft6{
+    position: absolute;
+    top: 73.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft11{
+    position: absolute;
+    top: 76%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft3{
+    position: absolute;
+    top: 78.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft14{
+    position: absolute;
+    top: 81%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft7{
+    position: absolute;
+    top: 83.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft10{
+    position: absolute;
+    top: 86%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft2{
+    position: absolute;
+    top: 88.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#bottomLeft15{
+    position: absolute;
+    top: 91%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 3%;
+    color: black;
+}
+#topRight1{
+    position: absolute;
+    top: 13%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight16{
+    position: absolute;
+    top: 16%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight8{
+    position: absolute;
+    top: 18.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight9{
+    position: absolute;
+    top: 21%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight5{
+    position: absolute;
+    top: 23.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight12{
+    position: absolute;
+    top: 26%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight4{
+    position: absolute;
+    top: 28.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight13{
+    position: absolute;
+    top: 31%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight6{
+    position: absolute;
+    top: 33%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight11{
+    position: absolute;
+    top: 35.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight3{
+    position: absolute;
+    top: 38%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight14{
+    position: absolute;
+    top: 40.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight7{
+    position: absolute;
+    top: 43%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight10{
+    position: absolute;
+    top: 45.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight2{
+    position: absolute;
+    top: 48%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topRight15{
+    position: absolute;
+    top: 50.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight1{
+    position: absolute;
+    top: 53.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight16{
+    position: absolute;
+    top: 56.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight8{
+    position: absolute;
+    top: 59%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight9{
+    position: absolute;
+    top: 61.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight5{
+    position: absolute;
+    top: 63.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight12{
+    position: absolute;
+    top: 66.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight4{
+    position: absolute;
+    top: 68.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight13{
+    position: absolute;
+    top: 71.4%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight6{
+    position: absolute;
+    top: 73.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight11{
+    position: absolute;
+    top: 76%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight3{
+    position: absolute;
+    top: 78.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight14{
+    position: absolute;
+    top: 81%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight7{
+    position: absolute;
+    top: 83.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight10{
+    position: absolute;
+    top: 86%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight2{
+    position: absolute;
+    top: 88.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#bottomRight15{
+    position: absolute;
+    top: 91%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 88%;
+    color: black;
+}
+#topLeftWinner1{
+    position: absolute;
+    top: 14.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#topLeftWinner2{
+    position: absolute;
+    top: 19.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#topLeftWinner3{
+    position: absolute;
+    top: 24.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#topLeftWinner4{
+    position: absolute;
+    top: 29.6%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#topLeftWinner5{
+    position: absolute;
+    top: 34.4%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#topLeftWinner6{
+    position: absolute;
+    top: 39.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#topLeftWinner7{
+    position: absolute;
+    top: 44.4%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#topLeftWinner8{
+    position: absolute;
+    top: 49.4%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#bottomLeftWinner1{
+    position: absolute;
+    top: 54.9%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#bottomLeftWinner2{
+    position: absolute;
+    top: 59.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#bottomLeftWinner3{
+    position: absolute;
+    top: 64.7%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#bottomLeftWinner4{
+    position: absolute;
+    top: 69.7%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#bottomLeftWinner5{
+    position: absolute;
+    top: 74.6%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#bottomLeftWinner6{
+    position: absolute;
+    top: 79.6%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#bottomLeftWinner7{
+    position: absolute;
+    top: 84.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#bottomLeftWinner8{
+    position: absolute;
+    top: 89.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 16%;
+    color: black;
+}
+#topRightWinner1{
+    position: absolute;
+    top: 14.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#topRightWinner2{
+    position: absolute;
+    top: 19.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#topRightWinner3{
+    position: absolute;
+    top: 24.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#topRightWinner4{
+    position: absolute;
+    top: 29.6%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#topRightWinner5{
+    position: absolute;
+    top: 34.4%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#topRightWinner6{
+    position: absolute;
+    top: 39.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#topRightWinner7{
+    position: absolute;
+    top: 44.4%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#topRightWinner8{
+    position: absolute;
+    top: 49.4%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#bottomRightWinner1{
+    position: absolute;
+    top: 54.9%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#bottomRightWinner2{
+    position: absolute;
+    top: 59.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#bottomRightWinner3{
+    position: absolute;
+    top: 64.7%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#bottomRightWinner4{
+    position: absolute;
+    top: 69.7%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#bottomRightWinner5{
+    position: absolute;
+    top: 74.6%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#bottomRightWinner6{
+    position: absolute;
+    top: 79.6%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#bottomRightWinner7{
+    position: absolute;
+    top: 84.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#bottomRightWinner8{
+    position: absolute;
+    top: 89.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 78%;
+    color: black;
+}
+#sS1{
+    position: absolute;
+    top: 17.2%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 23%;
+    color: black;
+}
+#sS2{
+    position: absolute;
+    top: 27.2%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 23%;
+    color: black;
+}
+#sS3{
+    position: absolute;
+    top: 37%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 23%;
+    color: black;
+}
+#sS4{
+    position: absolute;
+    top: 47%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 23%;
+    color: black;
+}
+#sS5{
+    position: absolute;
+    top: 57.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 23%;
+    color: black;
+}
+#sS6{
+    position: absolute;
+    top: 67.4%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 23%;
+    color: black;
+}
+#sS7{
+    position: absolute;
+    top: 77.2%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 23%;
+    color: black;
+}
+#sS8{
+    position: absolute;
+    top: 87.2%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 23%;
+    color: black;
+}
+#sS9{
+    position: absolute;
+    top: 17.2%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 70.5%;
+    color: black;
+}
+#sS10{
+    position: absolute;
+    top: 27.2%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 70.5%;
+    color: black;
+}
+#sS11{
+    position: absolute;
+    top: 37%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 70.5%;
+    color: black;
+}
+#sS12{
+    position: absolute;
+    top: 47%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 70.5%;
+    color: black;
+}
+#sS13{
+    position: absolute;
+    top: 57.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 70.5%;
+    color: black;
+}
+#sS14{
+    position: absolute;
+    top: 67.4%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 70.5%;
+    color: black;
+}
+#sS15{
+    position: absolute;
+    top: 77.2%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 70.5%;
+    color: black;
+}
+#sS16{
+    position: absolute;
+    top: 87.2%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 70.5%;
+    color: black;
+}
+#eE1{
+    position: absolute;
+    top: 22.3%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 29.5%;
+    color: black;
+}
+#eE2{
+    position: absolute;
+    top: 42%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 29.5%;
+    color: black;
+}
+#eE3{
+    position: absolute;
+    top: 62.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 29.5%;
+    color: black;
+}
+#eE4{
+    position: absolute;
+    top: 82.1%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 29.5%;
+    color: black;
+}
+#eE5{
+    position: absolute;
+    top: 22.3%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 63.5%;
+    color: black;
+}
+#eE6{
+    position: absolute;
+    top: 41.8%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 63.6%;
+    color: black;
+}
+#eE7{
+    position: absolute;
+    top: 62.5%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 63.5%;
+    color: black;
+}
+#eE8{
+    position: absolute;
+    top: 82.1%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 63.6%;
+    color: black;
+}
+#fF1{
+    position: absolute;
+    top: 32%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 36.2%;
+    color: black;
+}
+#fF2{
+    position: absolute;
+    top: 72.3%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 36.2%;
+    color: black;
+}
+#fF3{
+    position: absolute;
+    top: 32%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 56.8%;
+    color: black;
+}
+#fF4{
+    position: absolute;
+    top: 72.3%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 56.8%;
+    color: black;
+}
+#nC1{
+    position: absolute;
+    top: 49%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 38%;
+    color: black;
+}
+#nC2{
+    position: absolute;
+    top: 49%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 52%;
+    color: black;
+}
+#champion{
+    position: absolute;
+    top: 58%;
+    height: 2.5%;
+    width: 10%;
+    margin-left: 45%;
+    color: black;
+}
